@@ -1,0 +1,34 @@
+Write a program that evaluates and prints the result of the following expressions:
+7 < 10
+12 >= 12
+15 != 20
+25 == 25
+8 > 9
+
+
+
+Declare two integer variables, x and y. Initialize them with different values. Write a program to print the results of the following comparisons:
+x < y
+x > y
+x == y
+x != y
+x <= y
+
+
+
+Write a program that takes two integer inputs from the user and prints whether the first number is less than, greater than, or equal to the second number.
+
+
+Declare three integer variables, a, b, and c. Initialize them with values of your choice. Write a program to print the results of the following comparisons:
+a < b
+b > c
+a == c
+a != b
+c <= b
+
+
+
+Write a program that takes two integer values from the user and prints 1 if the values are equal and 0 if they are not.
+
+
+Write a program that prompts the user for two integer values and prints 1 if the values are not equal and 0 if they are equal.
