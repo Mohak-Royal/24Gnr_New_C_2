@@ -1,0 +1,113 @@
+Realtional Operators: these operators are used to compare two values or expresssion.
+
+-they will always give answer or output in 0(false) or 1(true)
+
+
+0 : false
+1 : true
+-5 : true
+'a' : true
+348927 : true
+
+
+Types of Relatinal Operators:
+
+1. '==' : Equals to : it checks if the two operands are equal.
+2. '!=' : Not Equals to : it checks if the  two operands are not equal.
+3. '>' : Greater than
+4. '<' : Less than
+5. '>=' : Greater than or Equals to
+6. '<=' : Less than or  Equals to
+
+
+
+int a = 5 , b = 20;
+
+printf("%d" , (a = b) );
+output :  0
+
+int a = 5 , b = 5
+printf("%d" , a==b);
+output : 1
+
+
+
+
+int a = 5 , b = 5
+
+printf("%d" , a != b);
+output : 0
+
+int a = 50 , b = 5
+printf("%d" , a != b);
+output : 1
+
+
+
+int a = 50 , b = 5
+
+printf("%d" , a > b);
+output : 1
+
+int a = 50 , b = 500
+printf("%d" , a > b);
+
+output : 0
+
+
+int a = 50 , b = 5
+printf("%d" , a < b);
+output : 0
+
+int a = 50 , b = 500
+printf("%d" , a < b);
+
+output : 1
+
+
+
+
+>=
+
+int a = 10 , b = 5;
+
+printf("%d" , a >= b);
+
+output : 1
+
+int a = 5 , b = 5;
+
+printf("%d" , a >= b);
+output : 1
+
+int a = 1 , b = 5;
+printf("%d" , a >= b);
+output : 0
+
+
+
+<= 
+
+
+int a = 10 , b = 5;
+
+printf("%d" , a <= b);
+
+output : 0
+
+int a = 5 , b = 5;
+
+printf("%d" , a <= b);
+output : 1
+
+int a = 1 , b = 5;
+printf("%d" , a <= b);
+output : 1
+
+
+
+
+
+
+
+

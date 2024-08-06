@@ -1,0 +1,13 @@
+Realtional Task:
+
+Write a program that reads two integer values from the user and prints whether they are equal.
+
+Write a program that reads two integer values from the user and prints whether the first number is greater than or equal to the second number
+
+Write a program that reads two integer values from the user and prints whether they are not equal.
+
+Write a program that reads two integer values from the user and prints whether the first number is less than the second number.
+
+Write a program that reads two integer values from the user and prints whether the first number is greater than the second number.
+
+Write a program that reads two integer values from the user and prints whether the first number is less than or equal to the second number.

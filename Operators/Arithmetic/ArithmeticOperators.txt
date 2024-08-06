@@ -1,0 +1,95 @@
+Operators : operators are the symbols which are used to perform
+	    operations in our program
+	    
+	    operations : addition , multiplication , comparision.....
+	    
+	    
+-Types of Operators:
+
+	-Arithmetic Operator
+	-Relational Operator
+	-Logical Operator
+	-Unary Operator
+	-Assignment Operator
+	-Conditional Operator
+	-Bitwise Operator
+	
+	
+	
+	Operand = Variables
+	
+	
+	1. Arithmetic Operator : These are the Types of Operators which are used to perform mathematical Operations.
+	-In Arithmetic operator we have two operand and one operator in the middle of the operands
+	
+	
+	-Addition : +
+		- it is used to add or sum two operands
+		- Syntax: operand1 + operand2
+		- Example : 			
+			int a = 10 , b = 20 , sum;
+			
+			//printf("%d",a+b);
+			//output : 30
+			
+			sum = a+b;
+			printf("%d" , sum);
+	
+	-Subtraction : -
+		-it is used to subtract or minus two operands
+		- Syntax :  operand1 - operand2
+		- Example:
+			int a = 20 , b = 10 , sub;
+			
+			//printf("%d",a-b);
+			//output : 10
+			
+			sub = a-b;
+			printf("%d" , sum);
+			output : 10
+		
+	-Multiplication : *
+		-it is used to multiply or product of two operands
+		- Syntax: operand1 * operand2
+		- Example: 
+			int a = 20 , b = 10 , ans;
+			
+			//printf("%d" , a*b);
+			//output : 200
+	
+			ans = a*b;
+			printf("%d" , ans);
+			output : 200
+	
+	-Division : /
+		-it is used to Divide two operands
+		- it given quotient of the division
+		- Syntax: operand1 / operand2
+		- Example: 
+			int a = 20 , b = 10 , div;
+			
+			//printf("%d" , a/b);
+			//output : 2
+	
+			div = a/b;
+			printf("%d" , div);
+			output : 2		
+	
+	-Modulus : %
+		-it is used to modulus two operands
+		- it given remainder of the division
+		- Syntax: operand1 % operand2
+		- Example: 
+			int a = 20 , b = 10 , mod;
+			
+			//printf("%d" , a%b);
+			//output : 0 
+	
+			mod = a%b;
+			printf("%d" , mod);
+			output : 0
+		
+		
+	
+	
+	
