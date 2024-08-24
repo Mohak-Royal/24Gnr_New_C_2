@@ -1,0 +1,21 @@
+Ternary Operators:
+
+This operator is a conditional operator which is used to perform conditional operations.
+
+
+for Example : eligible voting , maximum number
+
+
+
+Syntax :   
+
+(condition)?  expression_if_true : expression_if_false
+
+for Example : maximum of two numbers
+
+a = 10 , b = 5
+
+(a > b)?   printf("a is maximum") : printf("b is maximum");
+
+output : a is maximum
+s

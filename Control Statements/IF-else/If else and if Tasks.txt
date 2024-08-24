@@ -1,0 +1,27 @@
+Write a Java program that takes an integer input from the user and checks whether the number is even or odd.
+
+Write a Java program that takes a single character input from the user and checks whether it is a vowel (a, e, i, o, u) or a consonant
+
+Write a Java program that takes the user's age as input and checks whether they are eligible to vote (age 18 or older).
+
+Write a Java program that takes an integer input and checks whether the number is positive. If the number is not positive, do nothing.
+
+Write a Java program that takes a int input from the user and checks whether it matches a pre-defined password. If it matches, print "Access Granted," otherwise print "Access Denied."
+
+Write a Java program that takes an integer input and checks whether the number is divisible by 5. If it is divisible, print "Divisible by 5," otherwise print "Not divisible by 5."
+
+Write a Java program that takes a year as input and checks whether it is in the 21st century (from 2001 to 2100).
+
+Write a Java program that takes an integer input and checks if the number is zero. If it is, print "The number is zero."
+
+Write a Java program that takes an integer input and checks whether the number is a multiple of 10. If it is, print "Multiple of 10," otherwise print "Not a multiple of 10."
+
+Write a Java program that takes the current hour (in 24-hour format) as input and checks whether it is day (from 6 AM to 6 PM) or night (from 6 PM to 6 AM).
+
+Write a Java program that takes an integer input and checks whether the number is positive, negative, or zero.  Hint: Use separate if statements for each condition
+
+Write a Java program that takes an integer input and checks whether the number is less than 100. If it is, print "Number is less than 100."
+
+Write a Java program that takes a score (0-100) as input and checks if it's valid (i.e., within the range). If it is valid, print "Valid score," otherwise print "Invalid score."
+
+Write a Java program that takes the speed of a vehicle as input and checks whether it is within a speed limit (e.g., 60 km/h). If it is within the limit, print "Within the speed limit," otherwise print "Speeding."

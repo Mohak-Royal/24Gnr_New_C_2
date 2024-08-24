@@ -1,0 +1,89 @@
+Assignment Operator: '=' , '+='
+
+- Assignment Operators are used to assign value to an operand(variable)
+
+
+Types : Basic assignment operator  and Compound assignment operators
+
+
+Basic assignment operator : '='
+
+	-It is used to simply assign value in the operand(variable) which is in the left side of the operator(=)
+
+	- And the value that is going to be assigned is on the right side of the operator
+
+	Syntax : Operand  =  (value/operand)
+	Example : a = b , a = 45
+
+
+
+Compound assignment operators:
+
+1. +=
+2. -=
+3. %=
+4. /=
+5. *=
+
+
+
+1. += : Adds the value of right operand with the left operand and assign it to the left operand
+
+
+Syntax : operand += value/operand
+
+int a = 10 , int b = 5
+Example : a += 10
+printf("%d" , a);   output : 20
+
+Example : a += b , b += a
+printf("%d" , a);   output : 15
+
+
+2. -= : Subtracts the value of right operand with the left operand and assign it to the left operand
+
+int a = 10 , int b = 5
+
+Example : a -= 10
+output : 0
+
+Example : a -= b , b -= a
+output : 5            -5
+
+
+3. %= : Modulos the value of right operand with the left operand and assign it to the left operand
+
+int a = 10 , int b = 5
+
+Example : a %= 3
+output : a = 1
+
+Example : a %= b
+output : 0
+
+
+4. /= : Divides the value of right operand with the left operand and assign it to the left operand
+
+
+int a = 10 , int b = 5
+
+
+Example : a /= 2
+output : 5
+
+Example : a /= b
+output : 2
+
+Example : b /= a
+output : 0 (float : 0.5)
+
+
+5. *= : Multiply the value of right operand with the left operand and assign it to the left operand
+
+int a = 10 , b = 5
+
+Example : a *= 9999
+output : 99990
+
+Example : a *= b
+output : 50

@@ -1,0 +1,52 @@
+Unary Operators:
+
+-these are the operators that perform operation on a single operand.
+- they are used to perform operations such as incrementing/decrementing , negating , more...
+
+   a         > , +      b
+operand   operator   operand
+
+
+1. Unary Plus ('+')
+2. Unary Minus ('-')
+3. Increment operator ('++')
+4. Decrement Operator ('--')
+5. Logical Not Operator ('!')
+6. Bitwise Not Operator ('~')
+7. Address-of operator ('&')
+8. Dereference Operator ('*')
+
+
+1. Unary Plus ('+')
+-indicates a positive value
+- Example : '+a'
+
+
+2. Unary Minus ('-')
+-indicates a negative value
+- Example : '-a'
+
+3. Increment Operator ('++')
+- Increase the value of an operand by 1
+-Two Types:
+
+	-Prefix
+		Example:  ++a
+	-Postfix(sufix)
+		Example : a++
+
+4. Decrement Operator ('--')
+- Decrease the value of an operand by 1
+two types:
+	
+	-Prefix
+		Example: --a
+	-Postfix
+		Example: a--
+		
+		
+7. Address-of Operator ('&'):
+- It Give the memory address of the operand
+Example:
+	int a;
+	scanf("%d" , &a)

@@ -1,0 +1,35 @@
+Arithmetic : + , - , * , / , % : Operand : 2 ,Operators : 1 : Datatype : int , float (multiple datatype) , expression
+Relational : == , != , > , < , >= , <= :  Operand :2 , Operators : 1
+Datatypes : int , float , Expression (a+b , (a>b) > (a == b)) 
+
+
+Logical Operators: these Operators are used to perform logical operations
+
+-It only performs Operation on true or false values.
+
+
+Types of Logical Operators : We have 3 type
+
+Logical AND : &&
+
+1	1	: 1
+0	1	: 0
+1	0	: 0
+0	0 	: 0
+
+Logical OR : ||
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+1	1	: 1
+0	1	: 1
+1	0	: 1
+0	0	: 0
+
+
+Logical NOT : !
+
+1	:	0
+0	:	1
+
+
+

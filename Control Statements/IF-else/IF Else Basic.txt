@@ -1,0 +1,72 @@
+Control Statements:
+These Statements are used to control the flow of the program.
+
+
+Types of control Statement: 
+if-else statement
+loops
+switch
+break
+continue
+goto
+
+
+
+If-else : When we need to execute particular part of code according to the condition we use if else.
+
+
+Types of if-else:
+
+if condition
+if-else condition
+else if(else if ladder) condition
+nested if else
+
+
+1. IF condition : It will only execute if the condition is true
+
+Syntax:
+
+
+if(condition){
+	//code to be executed
+}
+
+Example : 
+
+int num = 18
+
+if(num >= 18){
+	printf("You are Eligible for Voting!!");
+}
+
+
+Output:  
+You are Eligible for Voting!!
+
+
+2.If-else:  This is used when we need to check both part true and false
+
+
+Syntax:
+
+if(condition){
+	//code
+}else{
+	//code
+}
+
+
+Example: 
+
+
+int age = 140;
+if(age >= 18){
+	printf("Eligible");
+}else{
+	printf("Not Eligible");
+}
+
+
+
+
