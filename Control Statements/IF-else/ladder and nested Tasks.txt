@@ -1,0 +1,90 @@
+****Ladder***
+
+Task 1: Grade Classification
+Description: Write a Java program that takes a student's score as input and assigns a grade based on the following criteria:
+
+90 and above: Grade A
+80 to 89: Grade B
+70 to 79: Grade C
+60 to 69: Grade D
+Below 60: Grade F
+
+
+Task 2: Determine the Size Category of a Number
+Description: Write a Java program that takes an integer input and categorizes it as:
+
+"Very small" if the number is less than 10
+"Small" if the number is between 10 and 100
+"Medium" if the number is between 101 and 1000
+"Large" if the number is between 1001 and 10000
+"Very large" if the number is greater than 10000
+
+
+Task 3: Day of the Week
+Description: Write a Java program that takes an integer (1-7) as input and prints the corresponding day of the week. For example, 1 = "Monday", 2 = "Tuesday", etc.
+
+
+
+Task 4: Determine Age Group
+Description: Write a Java program that takes an age as input and classifies it as:
+
+"Infant" if the age is 0-1
+"Child" if the age is 2-12
+"Teenager" if the age is 13-19
+"Adult" if the age is 20-64
+"Senior" if the age is 65 or above
+
+
+Task 5: BMI Category
+Description: Write a Java program that calculates the Body Mass Index (BMI) and categorizes it as:
+
+"Underweight" if BMI is less than 18.5
+"Normal weight" if BMI is between 18.5 and 24.9
+"Overweight" if BMI is between 25 and 29.9
+"Obesity" if BMI is 30 or higher
+Hint: Use an if-else ladder.
+
+
+
+
+
+
+
+
+****Nested IF****
+
+
+Task 1: Nested Number Range Check
+Description: Write a Java program that takes an integer as input and first checks if the number is positive. If it is, then check if it is even or odd. If it’s negative, print "Negative number."
+
+
+Task 2: College Admission Eligibility
+Description: Write a Java program that takes a student’s marks and age as input. First, check if the student’s marks are above 75%. If yes, then check if their age is between 18 and 22. If both conditions are true, print "Eligible for admission," otherwise print "Not eligible."
+
+
+
+Task 3: Leap Year with Nested Check
+Description: Write a Java program to check if a year is a leap year.
+
+
+Task 4: Voting Eligibility with Nested Criteria
+Description: Write a Java program that takes a person's age and nationality as input. First, check if the person is 18 or older. If true, then check if they are a citizen of the country. If both conditions are true, print "Eligible to vote," otherwise print "Not eligible."
+
+
+
+Task 5: Discount Application
+Description: Write a Java program that takes the purchase amount and customer type (e.g., regular or premium) as input. First, check if the purchase amount is over $100. If true, then check if the customer is a premium member. If both conditions are true, apply a 20% discount; otherwise, apply a 10% discount.
+
+
+
+Task 10: Device Authentication
+Description: Write a Java program that simulates device authentication. Take inputs for username, password, and a security code. First, check if the username and password are correct. If true, then check if the security code matches. If all conditions are true, print "Access granted," otherwise print "Access denied."
+
+
+
+Task 14: Loan Approval Based on Credit Score and Income
+Description: Write a Java program that takes a person's credit score and annual income as input. First, check if the credit score is above 700. If true, then check if the annual income is above $40,000. If both conditions are met, print "Loan approved," otherwise print "Loan not approved."
+
+
+Task 15: Determine the Season Based on Month and Hemisphere
+Description: Write a Java program that takes the month and the hemisphere (Northern or Southern) as input. First, check if the month falls in the range for summer in the Northern Hemisphere (June-August). If true, then check if the hemisphere is Northern. Print "It's summer" or "It's winter" based on the results.

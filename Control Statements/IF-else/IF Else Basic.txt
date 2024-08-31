@@ -70,3 +70,62 @@ if(age >= 18){
 
 
 
+
+
+
+
+Ladder: 
+
+if(){
+
+}else if(){
+
+}else if(){
+
+}else{
+
+}
+
+
+
+Nested If else:
+
+
+
+if(){
+	if(){
+		if(){
+
+		}
+	}else if{
+
+	}
+}else{
+	if(){
+
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
