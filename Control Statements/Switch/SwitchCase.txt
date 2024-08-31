@@ -1,0 +1,27 @@
+Switch Case : This is used when we need to check multiple cases and run a specific part of program according to the case.
+
+- it is an alternate of else if ladder(condition will not be check , we will check cases).
+
+
+Syntax:
+
+
+switch(variable/constant){
+	case value:
+		//code
+		break;
+	
+	case value:
+		//code
+		break;
+
+	case .....
+
+
+	default:
+		//code
+}
+
+
+
+
