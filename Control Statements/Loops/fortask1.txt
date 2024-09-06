@@ -1,0 +1,54 @@
+-Write a C program to compute the sum of the first 10 natural numbers.
+
+-Write a program in C to display n terms of natural numbers and their sum (input the number range from user)
+
+-Write a program in C to read 10 numbers from the keyboard and find their sum and average.
+
+-Write a program in C to display the multiplication table for a given integer.
+Test Data :
+Input the number (Table to be calculated) : 15
+Expected Output :
+15 X 1 = 15
+...
+...
+15 X 10 = 150
+
+-Write a C program to display the n terms of odd natural numbers and their sum.
+Test Data
+Input number of terms : 10
+Expected Output :
+The odd numbers are :1 3 5 7 9 11 13 15 17 19
+The Sum of odd Natural Number upto 10 terms : 100
+
+-Write a C program to calculate the factorial of a given number.
+Test Data :
+Input the number : 5
+Expected Output :
+The Factorial of 5 is: 120
+
+-Write a program in C to find the sum of the series 1 +11 + 111 + 1111 + .. n terms.
+Test Data :
+Input the number of terms : 5
+Expected Output :
+1 + 11 + 111 + 1111 + 11111
+The Sum is : 12345
+
+-Write a program in C to display a given number in reverse order.
+Test Data :
+Input a number: 12345
+Expected Output :
+The number in reverse order is : 54321
+
+-Write a C program to check whether a given number is an Armstrong number or not.
+Test Data :
+Input a number: 153
+Expected Output :
+153 is an Armstrong number.
+
+-Write a program in C to find the prime numbers within a range of numbers.
+Test Data :
+Input starting number of range: 1
+Input ending number of range : 50
+Expected Output :
+The prime number between 1 and 50 are :
+2 3 5 7 11 13 17 19 23 29 31 37 41 43 47
