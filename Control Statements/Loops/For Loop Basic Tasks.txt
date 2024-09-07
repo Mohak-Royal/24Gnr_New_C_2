@@ -1,0 +1,10 @@
+Print numbers from 1 to 20.
+Print all even numbers between 1 and 50.
+Print all odd numbers between 1 and 30.
+Print the multiplication table of any number input by the user.
+Print the first 10 natural numbers in reverse order.
+Calculate the sum of the first 20 natural numbers.
+Calculate the sum of all even numbers between 1 and 100.
+Print the squares of numbers from 1 to 10.
+Print the Reverse Countdown from 10 to 1.
+Print numbers from 1 to 100 that are divisible by 5.
